@@ -5,6 +5,8 @@ Instance deployed in Selectel: [87.228.16.207](http://87.228.16.207/).
 ### Usage
 
 ```sh
+cd nginx_server
+
 terraform init
 
 env \
